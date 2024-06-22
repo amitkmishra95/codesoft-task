@@ -3,7 +3,7 @@ from tkinter import *
 root = Tk()
 root.geometry("550x550")
 root.minsize(700,560)
-root.title("CALCULATOR")
+root.title("CALCULATOR ")
 root.config(bg = 'green')
 #root.wm_iconbitmap('calculator.ico')
 width = root.winfo_width()
